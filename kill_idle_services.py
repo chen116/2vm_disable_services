@@ -68,7 +68,7 @@ services = [
 "ufw",
 "umountfs",
 "umountnfs.sh",
-"umountroot",
+#"umountroot",
 "unattended-upgrades",
 # "urandom",
 "whoopsie"
